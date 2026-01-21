@@ -1,4 +1,4 @@
-class Mytool < Formula
+class Bow < Formula
   desc "Plow through the muddy waters for shipping"
   homepage "https://github.com/rasmus-zakarias/bow"
   url "https://github.com/rasmus-zakarias/bow/archive/refs/tags/0.0.1.tar.gz"
