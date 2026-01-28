@@ -8,7 +8,7 @@ class Bow < Formula
       headers: [
               "Authorization: Bearer #{ENV["HOMEBREW_ARTIFACTORY_TOKEN"]}"
       ]
-      sha256 "6861bf8c4764d417259953b4d5a506fc19407ffa982bae140c317e1c0a490acb"
+      sha256 "517fefdf5a693ef6063bb26c041b4e3c5a61e2537451644df7a6c1c4883492ec"
 
       def install
           bin.install "bin/bow"
